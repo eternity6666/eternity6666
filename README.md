@@ -16,7 +16,7 @@
 </div>
     
 <h2 align="center">Github Stats :bar_chart:</h2>
-<h3 align="center">访问次数</h3>
+<h3 align="center">Visitor's count :eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{eternity6666}/count.svg" alt="eternity6666 :: Visitor's Count" /></p>
     
 <h3 align="center">Top langs :tongue:</h3>
