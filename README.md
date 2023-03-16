@@ -13,9 +13,8 @@
 
 毕业于南昌大学计算机科学与技术专业(2017-2021)。
 
-目前就职于 <a href="https://github.com/Tencent"> Tencent。
+目前就职于 <a href="https://github.com/Tencent">Tencent</a>。
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eternity6666&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternity6666&layout=compact&langs_count=10&theme=radical" />
-</div>
+![Eternity6666's Github Stats](https://github-readme-stats.vercel.app/api?username=eternity6666&show_icons=true&theme=radical)
+
+![Eternity6666's Most Use Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=eternity6666&layout=compact&langs_count=10&theme=radical)
