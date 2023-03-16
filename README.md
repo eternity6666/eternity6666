@@ -9,11 +9,11 @@
 # 😄
 ## 关于我
 
-大家好，阳同学就是在下。
+大家好，阳同学就是在下.
 
-毕业于南昌大学计算机科学与技术专业(2017-2021)。
+毕业于南昌大学计算机科学与技术专业(2017-2021).
 
-目前就职于 <a href="https://github.com/Tencent">Tencent</a>。
+目前就职于 <a href="https://github.com/Tencent">Tencent</a>, 从事 Android 客户端开发.
 
 ![Eternity6666's Github Stats](https://github-readme-stats.vercel.app/api?username=eternity6666&show_icons=true&theme=radical&card_width=500px)
 
