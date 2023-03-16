@@ -15,6 +15,6 @@
 
 目前就职于 <a href="https://github.com/Tencent">Tencent</a>。
 
-![Eternity6666's Github Stats](https://github-readme-stats.vercel.app/api?username=eternity6666&show_icons=true&theme=radical)
+![Eternity6666's Github Stats](https://github-readme-stats.vercel.app/api?username=eternity6666&show_icons=true&theme=radical&card_width=500px)
 
-![Eternity6666's Most Use Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=eternity6666&layout=compact&langs_count=10&theme=radical)
+![Eternity6666's Most Use Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=eternity6666&layout=compact&langs_count=10&theme=radical&card_width=500px)
