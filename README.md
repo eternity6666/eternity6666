@@ -1,5 +1,6 @@
 <div align="center">
   <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=eternity6666&style=plastic" />
     <a href="https://yangzuohua.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/StuCoder"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/336307339/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
